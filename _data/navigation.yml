@@ -1,8 +1,8 @@
 - name: Home
-  link: /helloJeckyll/
+  link: /
 - name: About
-  link: /helloJeckyll/about.html
+  link: /about.html
 - name: Blog
-  link: /helloJeckyll/blog.html
+  link: /blog.html
 - name: Staff
-  link: /helloJeckyll/staff.html
+  link: /staff.html
